@@ -1,0 +1,75 @@
+# Environmental Data and Geography Categories
+## Water
+- Freshwater Systems
+  - Rivers and Streams
+  - Lakes and Ponds
+  - Wetlands
+- Groundwater
+  - Aquifers
+  - Springs
+- Water Quality
+  - Chemical Analysis
+  - Pollution Monitoring
+  - Hydrological Cycles
+- Hydrology
+  - Flood Dynamics
+  - Water Resources Management
+- Ice and Snow
+  - Snowmelt and Runoff
+## Land
+- Terrestrial Ecosystems
+  - Forests
+  - Grasslands
+- Soil Science
+  - Soil Composition
+  - Erosion and Degradation
+  - Carbon Sequestration
+- Land Use and Cover
+  - Urbanization
+  - Agriculture
+  - Deforestation
+- Geology and Geomorphology
+  - Rock Formations
+  - Erosion Processes
+- Topography and Terrain
+  - Elevation Mapping
+  - Landscape Modeling
+## Atmosphere
+- Weather and Climate
+  - Meteorology
+  - Climatology
+  - Extreme Weather Events
+- Atmospheric Chemistry
+  - Air Quality Monitoring
+  - Greenhouse Gas Emissions
+  - Aerosols and Particulates
+- Atmospheric Physics
+  - Cloud Formation
+  - Wind Patterns
+  - Radiation and Energy Balance
+- Climate Change
+  - Long-term Trends
+  - Modeling and Projections
+  - Impacts on Ecosystems
+## Marine
+- Oceanography
+  - Physical Oceanography (currents, waves, tides)
+  - Chemical Oceanography (salinity, nutrients)
+  - Biological Oceanography (marine ecosystems)
+- Marine Ecosystems
+  - Seagrass Meadows
+- Coastal and Estuarine Systems
+  - Coastal Dynamics
+  - Estuarine Ecology
+  - Sedimentation
+- Marine Resources
+  - Fisheries and Aquaculture
+  - Offshore Energy (oil, wind, etc.)
+- Marine Pollution
+  - Plastic and Debris Monitoring
+  - Oil Spills
+  - Eutrophication
+## Base mapping
+- Administrative
+- Helper data
+  - Grids
