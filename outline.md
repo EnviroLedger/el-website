@@ -6,7 +6,6 @@
   - Wetlands
 - Groundwater
   - Aquifers
-  - Springs
 - Water Quality
   - Chemical Analysis
   - Pollution Monitoring
@@ -18,22 +17,21 @@
   - Snowmelt and Runoff
 ## Land
 - Terrestrial Ecosystems
-  - Forests
-  - Grasslands
+  - Land Use and Cover
+    - Forests
+    - Grasslands
+    - Agriculture
 - Soil Science
   - Soil Composition
   - Erosion and Degradation
   - Carbon Sequestration
-- Land Use and Cover
-  - Urbanization
-  - Agriculture
-  - Deforestation
 - Geology and Geomorphology
   - Rock Formations
-  - Erosion Processes
+  - Erosion Processes??
 - Topography and Terrain
   - Elevation Mapping
-  - Landscape Modeling
+  - Landscape Parameters
+    - Slope etc
 ## Atmosphere
 - Weather and Climate
   - Meteorology
@@ -43,7 +41,7 @@
   - Air Quality Monitoring
   - Greenhouse Gas Emissions
   - Aerosols and Particulates
-- Atmospheric Physics
+- Atmospheric Physics ??
   - Cloud Formation
   - Wind Patterns
   - Radiation and Energy Balance
@@ -52,10 +50,6 @@
   - Modeling and Projections
   - Impacts on Ecosystems
 ## Marine
-- Oceanography
-  - Physical Oceanography (currents, waves, tides)
-  - Chemical Oceanography (salinity, nutrients)
-  - Biological Oceanography (marine ecosystems)
 - Marine Ecosystems
   - Seagrass Meadows
 - Coastal and Estuarine Systems
@@ -73,3 +67,4 @@
 - Administrative
 - Helper data
   - Grids
+  - Satellite base maps

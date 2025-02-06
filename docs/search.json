@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "enviroledger",
+    "section": "",
+    "text": "This is a Quarto website!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "temporary.html",
+    "href": "temporary.html",
+    "title": "enviroledger",
+    "section": "",
+    "text": "Here are two UK datasets for each subcategory under Freshwater Systems:\nRivers and Streams: 1. OS Open Rivers: A free dataset providing a high-level view of watercourses in Great Britain, including freshwater rivers, tidal estuaries, and canals. (Ordnance Survey) 2. National River Flow Archive (NRFA): The UK’s official record of river flow data, collating information from over 1,600 gauging stations across the UK. (National River Flow Archive)\nLakes and Ponds: 1. Spatial Inventory of UK Waterbodies: A dataset including lake polygons from the UK Lakes Portal, providing information on various water bodies across the UK. (Data.gov.uk) 2. The UK Lakes Database: Contains data for over 40,000 lakes and ponds in the UK, including information on size, volume, depth, water chemistry, and more. (Catalogue)\nWetlands: 1. Priority Lake Habitats (England): A dataset identifying lakes in England that meet one or more priority habitat criteria, which may include certain wetland areas. (Natural England Open Data Geoportal) 2. UK Lakes - Lakes Portal (UKCEH): Provides spatial data and attributes for lakes, some of which may encompass wetland regions. (Catchment Based Approach Data Hub)\nHere are two UK datasets for each subcategory under Climate Change:\nLong-term Trends: 1. HadUK-Grid Datasets: These gridded and regional land surface climate observation datasets provide high-resolution data on various climate variables across the UK, facilitating the monitoring of long-term climate trends. (Met Office) 2. Climatic Research Unit (CRU) High-Resolution Gridded Datasets: Hosted by the University of East Anglia, these datasets offer detailed climate variables, aiding in the analysis of long-term climate patterns. (crudata.uea.ac.uk)\nModeling and Projections: 1. Met Office Climate Data Portal: This portal provides access to observed and projected climate data, supporting research into future climate scenarios. (The Met Office climate data portal) 2. GeoClimate UKCP18 Open: Developed by the British Geological Survey, this dataset offers projections for future climate scenarios in the UK, focusing on potential impacts on geological conditions. (British Geological Survey)\nImpacts on Ecosystems: 1. UK Environmental Change Network (ECN) Datasets: The ECN provides long-term environmental monitoring data, including information on how climate change affects various ecosystems across the UK. (ecn.ac.uk) 2. UK Natural Capital Accounts: Published by the Office for National Statistics, these datasets offer detailed breakdowns of the financial and societal value of natural resources, helping to assess the impacts of climate change on ecosystems. (Office for National Statistics)"
+  },
+  {
+    "objectID": "outline.html",
+    "href": "outline.html",
+    "title": "Environmental Data and Geography Categories",
+    "section": "",
+    "text": "Freshwater Systems\n\nRivers and Streams\nLakes and Ponds\nWetlands\n\nGroundwater\n\nAquifers\n\nWater Quality\n\nChemical Analysis\nPollution Monitoring\nHydrological Cycles\n\nHydrology\n\nFlood Dynamics\nWater Resources Management\n\nIce and Snow\n\nSnowmelt and Runoff ## Land\n\nTerrestrial Ecosystems\n\nLand Use and Cover\n\nForests\nGrasslands\nAgriculture\n\n\nSoil Science\n\nSoil Composition\nErosion and Degradation\nCarbon Sequestration\n\nGeology and Geomorphology\n\nRock Formations\nErosion Processes??\n\nTopography and Terrain\n\nElevation Mapping\nLandscape Parameters\n\nSlope etc ## Atmosphere\n\n\nWeather and Climate\n\nMeteorology\nClimatology\nExtreme Weather Events\n\nAtmospheric Chemistry\n\nAir Quality Monitoring\nGreenhouse Gas Emissions\nAerosols and Particulates\n\nAtmospheric Physics ??\n\nCloud Formation\nWind Patterns\nRadiation and Energy Balance\n\nClimate Change\n\nLong-term Trends\nModeling and Projections\nImpacts on Ecosystems ## Marine\n\nMarine Ecosystems\n\nSeagrass Meadows\n\nCoastal and Estuarine Systems\n\nCoastal Dynamics\nEstuarine Ecology\nSedimentation\n\nMarine Resources\n\nFisheries and Aquaculture\nOffshore Energy (oil, wind, etc.)\n\nMarine Pollution\n\nPlastic and Debris Monitoring\nOil Spills\nEutrophication ## Base mapping\n\nAdministrative\nHelper data\n\nGrids\nSatellite base maps"
+  },
+  {
+    "objectID": "outline.html#water",
+    "href": "outline.html#water",
+    "title": "Environmental Data and Geography Categories",
+    "section": "",
+    "text": "Freshwater Systems\n\nRivers and Streams\nLakes and Ponds\nWetlands\n\nGroundwater\n\nAquifers\n\nWater Quality\n\nChemical Analysis\nPollution Monitoring\nHydrological Cycles\n\nHydrology\n\nFlood Dynamics\nWater Resources Management\n\nIce and Snow\n\nSnowmelt and Runoff ## Land\n\nTerrestrial Ecosystems\n\nLand Use and Cover\n\nForests\nGrasslands\nAgriculture\n\n\nSoil Science\n\nSoil Composition\nErosion and Degradation\nCarbon Sequestration\n\nGeology and Geomorphology\n\nRock Formations\nErosion Processes??\n\nTopography and Terrain\n\nElevation Mapping\nLandscape Parameters\n\nSlope etc ## Atmosphere\n\n\nWeather and Climate\n\nMeteorology\nClimatology\nExtreme Weather Events\n\nAtmospheric Chemistry\n\nAir Quality Monitoring\nGreenhouse Gas Emissions\nAerosols and Particulates\n\nAtmospheric Physics ??\n\nCloud Formation\nWind Patterns\nRadiation and Energy Balance\n\nClimate Change\n\nLong-term Trends\nModeling and Projections\nImpacts on Ecosystems ## Marine\n\nMarine Ecosystems\n\nSeagrass Meadows\n\nCoastal and Estuarine Systems\n\nCoastal Dynamics\nEstuarine Ecology\nSedimentation\n\nMarine Resources\n\nFisheries and Aquaculture\nOffshore Energy (oil, wind, etc.)\n\nMarine Pollution\n\nPlastic and Debris Monitoring\nOil Spills\nEutrophication ## Base mapping\n\nAdministrative\nHelper data\n\nGrids\nSatellite base maps"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
