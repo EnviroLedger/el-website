@@ -1,9 +1,11 @@
 # Environmental Data and Geography Categories
-## Water
-- Freshwater Systems
-  - Rivers and Streams
-  - Lakes and Ponds
-  - Wetlands
+## Water (r)
+- Freshwater Systems (f)
+  - Rivers and Streams (f)
+    - OS Open Rivers (nb)
+    - Flood risk layers (nb)
+  - Lakes and Ponds (f)
+  - Wetlands (f)
 - Groundwater
   - Aquifers
 - Water Quality
@@ -15,7 +17,7 @@
   - Water Resources Management
 - Ice and Snow
   - Snowmelt and Runoff
-## Land
+## Land (r)
 - Terrestrial Ecosystems
   - Land Use and Cover
     - Forests
@@ -32,7 +34,7 @@
   - Elevation Mapping
   - Landscape Parameters
     - Slope etc
-## Atmosphere
+## Atmosphere (r)
 - Weather and Climate
   - Meteorology
   - Climatology
@@ -49,7 +51,7 @@
   - Long-term Trends
   - Modeling and Projections
   - Impacts on Ecosystems
-## Marine
+## Marine (r)
 - Marine Ecosystems
   - Seagrass Meadows
 - Coastal and Estuarine Systems
@@ -63,7 +65,9 @@
   - Plastic and Debris Monitoring
   - Oil Spills
   - Eutrophication
-## Base mapping
+## Energy (r)
+- Something
+## Base mapping (r)
 - Administrative
 - Helper data
   - Grids
