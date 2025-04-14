@@ -1,0 +1,9 @@
+# Water
+
+## Rivers and Streams
+
+
+Dataset         | Description       | Link      | Tag
+-----           |-----              |-----      |-----:
+Open Rivers     |A free dataset providing a high-level view of watercourses in Great Britain, including freshwater rivers, tidal estuaries, and canals. | [data](https://www.ordnancesurvey.co.uk/products/os-open-rivers)   | spatial, OS 
+National River Flow Archive (NRFA)  |The UK's official record of river flow data, collating information from over 1,600 gauging stations across the UK.     | [data](https://nrfa.ceh.ac.uk/)    | spatial, flow

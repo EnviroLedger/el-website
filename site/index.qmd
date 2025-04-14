@@ -1,9 +1,27 @@
+# Welcome to EnviroLedger
+
+## About This Project
+
+**EnviroLedger** is an open initiative aimed at bringing together environmental datasets into a single, accessible location. The project goal is to simplify the process of finding and accessing data, whilst also introducing methods of data processing for researchers, scientists, policymakers, and enthusiasts.
+
+## What You'll Find Here
+- **Curated Datasets:** A growing collection of environmental datasets from various sources, organized for easy discovery.
+- **Access Guides:** Step-by-step instructions on how to retrieve and use the data, whether through APIs, downloads, or cloud platforms.
+- **Processing Tutorials:** Practical guides and code examples to help you clean, analyze, and visualize environmental data.
+- **Community Contributions:** A space for researchers to share their datasets, methods, and insights with others.
+
+## Get Involved
+This is an open-source project, and we welcome contributions! Whether you're a data scientist, environmental researcher, or developer, there are many ways to participate:
+- Submit datasets or suggest new sources.
+- Improve documentation and tutorials.
+- Share your own data processing workflows.
+- Join discussions and collaborate with others.
+
+Check out our [GitHub repository](#) to contribute and stay updated.
+
+## Start Exploring
+Browse our datasets and resources to get started with your environmental research. If you have any questions or need help, feel free to [reach out](#contact).
+
 ---
-title: "enviroledger"
----
 
-This is a Quarto website!
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-Does this render to docs?
+_EnviroLedger – Making Environmental Data More Accessible for Everyone._

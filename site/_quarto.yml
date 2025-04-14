@@ -5,17 +5,29 @@ project:
 
 website:
   title: "enviroledger"
+  search: 
+    location: navbar
+    type: overlay
+  cookie-consent: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: water.qmd
+        text: Water
+      - href: base-data.qmd
+        text: Base Data
 
 format:
   html:
+    page-layout: full
     theme:
+      - sketchy
       - cosmo
       - brand
+    fontsize: 1.2em
     css: styles.css
     toc: false
 
